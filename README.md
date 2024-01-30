@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/harsh27022002/My-Portfolio))
+  ![GitHub repo size](https://img.shields.io/github/repo-size/harsh27022002/My-Portfolio)
   ![GitHub stars](https://img.shields.io/github/stars/harsh27022002/My-Portfolio?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/harsh27022002/My-Portfolio?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/harsh2702_?style=social)](https://twitter.com/harshmzp2702)
@@ -18,9 +18,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![My-Portfolio Demo](./ReadMeimage/screenshot.png "Desktop Demo")
 
 ### Prerequisites
 
